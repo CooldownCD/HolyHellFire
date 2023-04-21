@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Map1
   - Map2
+  - TowerHeaven
+  - TowerHell
+  - Bullet
   layers:
   - Default
   - TransparentFX
