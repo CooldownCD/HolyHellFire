@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Maps/Level#1.unity
     guid: fd95f8f7e00340c4d8001e9c6e7728a5
+  - enabled: 1
+    path: Assets/Maps/ShopLevel.unity
+    guid: 603eb0550c82c4643b7ee8652c5e8bfa
   m_configObjects: {}

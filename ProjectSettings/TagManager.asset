@@ -4,11 +4,16 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Map1
-  - Map2
   - TowerHeaven
   - TowerHell
   - Bullet
+  - Enemy
+  - SpawnsInHeaven
+  - SpawnsInHell
+  - SkinBlack
+  - SkinPurple
+  - SkinOrange
+  - SkinDefault
   layers:
   - Default
   - TransparentFX
