@@ -14,6 +14,9 @@ TagManager:
   - SkinPurple
   - SkinOrange
   - SkinDefault
+  - ExplosionRadius
+  - EnemyAttackRange
+  - EnemyBigAttackRange
   layers:
   - Default
   - TransparentFX
